@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TellSol
 - 👀 I’m interested in Simulation, Optimization and Data Science
-- 🌱 I’m currently learning AnyLogic, PuLP/Pyomo/SciPy
+- 🌱 I’m currently working with AnyLogic, PuLP/Pyomo/SciPy
 - 💞️ I’m looking to collaborate on Simulation and Optimization for Operations Research
 
 <!---
