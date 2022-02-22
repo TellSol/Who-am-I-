@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TellSol
-- 👀 I’m interested in Simulation, Optimization and Data Science
-- 🌱 I’m currently working with AnyLogic, PuLP/Pyomo/SciPy
-- 💞️ I’m looking to collaborate on Simulation and Optimization for Operations Research
+- 👀 I’m interested in operations reasearch/data science
+- 💞️ I’m looking to collaborate on simulation and optimization
 
 <!---
 TellSol/TellSol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
